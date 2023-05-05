@@ -1,0 +1,4 @@
+#Thu Mar 02 17:29:22 PST 2023
+base.0=/Users/spencersmallwood/StudioProjects/Clima-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
